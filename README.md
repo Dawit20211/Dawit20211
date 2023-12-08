@@ -1,4 +1,4 @@
-### Hi there, I'm [Your Name]! 👋
+### Hi there, I'm Dawit Habte! 👋
 
 I'm a Computer Science final year student with a passion for Full-Stack Web Development. 
 Currently, I'm working on various projects using the following technologies:
