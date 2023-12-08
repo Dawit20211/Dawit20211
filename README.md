@@ -12,13 +12,15 @@ Currently, I'm working on various projects using the following technologies:
 - 🗃️ Databases: ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
                 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### DevOps:
+
+- DevOps:
 
 
 
 ### Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/linkedin.com/in/dawit-habte/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/linkedin.com/in/dawit-habte)
+
 
 Let's connect and collaborate on exciting projects! 😊
 
