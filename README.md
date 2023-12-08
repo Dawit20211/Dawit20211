@@ -21,7 +21,7 @@ Currently, I'm working on various projects using the following technologies:
 
 ### Connect with Me:
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)https://www.linkedin.com/in/dawit-habte/ 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 https://www.linkedin.com/in/dawit-habte/ 
 
